@@ -3,7 +3,9 @@
 <div align="center">
   <a href="https://github.com/GuilhermeLeodeOliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeLeodeOliveira&show_icons=true&include_all_commits=true&count_private=true&icon_color=fff&text_color=fff&bg_color=DEG,000,000,001,002,003"/>
+<!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLeodeOliveira&layout=compact&langs_count=5&text_color=fff&bg_color=DEG,000,000,001,002,003"/>
+-->
 </div>
 
 ##
