@@ -46,3 +46,6 @@ Here are some ideas to get you started:
 
 
 ![Snake animation](https://raw.githubusercontent.com/GuilhermeLeodeOliveira/GuilhermeLeodeOliveira/output/github-contribution-grid-snake.svg)
+
+
+![Snake animation](https://raw.githubusercontent.com/GuilhermeLeodeOliveira/GuilhermeLeodeOliveira/output/github-contribution-grid-snake.gif)
