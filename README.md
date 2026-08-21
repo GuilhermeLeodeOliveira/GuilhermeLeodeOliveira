@@ -38,14 +38,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-##
-![snake gif](https://github.com/GuilhermeLeodeOliveira/GuilhermeLeodeOliveira/blob/output/github-contribution-grid-snake.svg)
-
-
-![snake animation](https://github.com/GuilhermeLeodeOliveira/GuilhermeLeodeOliveira/blob/output/github-contribution-grid-snake2.svg)
-
-
-![Snake animation](https://raw.githubusercontent.com/GuilhermeLeodeOliveira/GuilhermeLeodeOliveira/output/github-contribution-grid-snake.svg)
-
-
-![Snake animation](https://raw.githubusercontent.com/GuilhermeLeodeOliveira/GuilhermeLeodeOliveira/output/github-contribution-grid-snake.gif)
