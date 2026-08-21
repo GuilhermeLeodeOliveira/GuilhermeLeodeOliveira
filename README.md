@@ -1,11 +1,4 @@
 ## Hi there 👋
-
-<div align="center" style="display: inline_block; margin-left: auto; margin-right: auto;">
-  <a href="https://github.com/GuilhermeLeodeOliveira">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeLeodeOliveira&show_icons=true&include_all_commits=true&icon_color=fff&text_color=fff&bg_color=DEG,000,000,001,002,003"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLeodeOliveira&layout=compact&text_color=fff&bg_color=DEG,000,000,001,002,003"/>
-</div>
-
 ##
 
 <div align="center">
